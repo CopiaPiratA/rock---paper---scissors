@@ -83,3 +83,16 @@ p{
 .btn-img {
  width: 100%;   
 }
+
+@media only screen and (min-width: 600px) {
+    #points-section {
+        margin: auto;
+       margin-left: 650px;
+    }
+    img {
+        width: 15%;
+    }
+    .btn-img {
+        width: 50%;   
+       }
+  }
